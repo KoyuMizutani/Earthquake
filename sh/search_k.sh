@@ -1,0 +1,1 @@
+python ../exp/search_k.py -g 0 -d ../data_cls -e 100 --lr 0.2 

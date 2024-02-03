@@ -1,0 +1,1 @@
+python ../src/cls_test.py -g 1 -m ../result/result_20230807_183130/model_best -d ../data_cls -i 17

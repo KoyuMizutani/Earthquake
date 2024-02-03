@@ -1,0 +1,1 @@
+python ../src/reg_test.py -g 1 -m ../result/result_20230807_171616/model_best -d ../data_reg --inputwidth 5 --inputdim 10

@@ -1,0 +1,1 @@
+python ../src/hybrid_test.py --gpu1 0 --gpu2 1 --regmodel ../result/result_20230807_171616/model_best --clsmodel ../result/result_20230807_183130/model_best --dataset ../data_reg --reginputwidth 5 --reginputdim 10 --clsinputwidth 17 --clsinputdim 1

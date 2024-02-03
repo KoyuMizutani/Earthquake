@@ -1,0 +1,1 @@
+python ../src/cls_train.py -g 0 -d ../data_cls -e 100 --layers 1 --lr 0.1 --inputdim 1 --inputwidth 17 --hiddendim 10000 --dropprob 0

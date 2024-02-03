@@ -1,0 +1,2 @@
+# python ../src/cls_inference.py -g 1 -m ../result/result_20230807_183130/model_best -x 38 -y 35 -depth 13.08 -mag 6.8 -i 17
+python ../src/cls_inference.py -g 1 -m ../result/result_20230807_183130/model_best -x 37 -y 37 -depth 8.3 -mag 6.7 -i 17

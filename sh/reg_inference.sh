@@ -1,0 +1,3 @@
+# python ../src/reg_inference.py -g 1 -m ../result/result_20230807_171616/model_best -x 38 -y 35 -depth 13.08 -mag 6.8 --inputwidth 5 --inputdim 10
+# python ../src/reg_inference.py -g 1 -m ../result/result_20230807_171616/model_best -x 59 -y 0 -depth 386.94 -mag 5.5 --inputwidth 5 --inputdim 10
+python ../src/reg_inference.py -g 1 -m ../result/result_20230807_171616/model_best -x 37 -y 37 -depth 8.3 -mag 6.7 --inputwidth 5 --inputdim 10
